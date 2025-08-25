@@ -2,6 +2,8 @@
 
 A simple PHP-based QR Code Generator web application for generating scannable QR codes from URLs or text.
 
+🔗 **Live Demo:** [QR Code Generator](http://hygieiahealthcare.com/Qr_generator)
+
 ## 🚀 Features
 - Generate QR codes instantly from user input (URL or text)
 - Download generated QR codes as image files (PNG/SVG)
